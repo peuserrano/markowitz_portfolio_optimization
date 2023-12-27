@@ -1,6 +1,6 @@
 # Markowitz Portfolio Optimization using Python
 
-This project implements the Markowitz portfolio theory (1952) through Python, allowing users to optimize their investment portfolios.
+This project implements Markowitz's (1952) portfolio theory using Python, allowing users to optimize their investment portfolios, given that they have chosen a set of listed companies and a predetermined time interval for backtesting.
 
 ## Overview
 
